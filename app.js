@@ -1,27 +1,13 @@
 
-
-// Classificador de herois
-// 1️⃣ Desafio Classificador de nível de Herói
-
-/*
-O Que deve ser utilizado
-    - Variáveis
-    - Operadores
-    - Laços de repetição
-    - Estruturas de decisões
-*/
-/*
-## Objetivo
-
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
-*/
-
-
 // Definindo variáveis para o nome e a quantidade de experiência (XP) do herói
+
+//Variaveis
 const nomeHeroi = "Mancudo" 
 const xpHeroi = 1001
 
 let nivelHeroi;
+
+//Estrutura de Decisão
 
 if(xpHeroi <= 1000){
      nivelHeroi = "Ferro";
@@ -41,6 +27,6 @@ if(xpHeroi <= 1000){
     nivelHeroi = "Radiante"
 }
 
-// Exibindo a mensagem com o nível do herói
+// Exibindo a mensagem com o nível do herói, saída.
 console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivelHeroi}`);
 
