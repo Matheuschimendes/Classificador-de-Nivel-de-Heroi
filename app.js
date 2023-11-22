@@ -1,6 +1,4 @@
 
-// Definindo variáveis para o nome e a quantidade de experiência (XP) do herói
-
 //Variaveis
 const nomeHeroi = "Mancudo" 
 const xpHeroi = 1001
