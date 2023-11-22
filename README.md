@@ -1,7 +1,6 @@
 # Classificador de herois
 Classificador de Nivel de Heroi
 
-### Fiz algumas alterações em relação a valores para ficar mais engraçado, ja que meu jogo minhas regras... hauahuhuahaua
 
 ## Entendendo o Desafio
  
