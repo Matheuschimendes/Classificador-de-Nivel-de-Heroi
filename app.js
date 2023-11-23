@@ -1,7 +1,7 @@
 
 //Variaveis
 const nomeHeroi = "Mancudo" 
-const xpHeroi = 1001
+const xpHeroi = 10000
 
 let nivelHeroi;
 
@@ -19,7 +19,7 @@ if(xpHeroi <= 1000){
     nivelHeroi = "Platina"
 }else if(xpHeroi >= 8001 && xpHeroi <= 9000){
     nivelHeroi = "Ascendente"
-}else if(xpHeroi >= 9001 && xpHeroi <= 1000){
+}else if(xpHeroi >= 9001 && xpHeroi <= 10000){
     nivelHeroi = "Imortal"
 }else if(xpHeroi >= 10001){
     nivelHeroi = "Radiante"
